@@ -14,7 +14,7 @@ export const Navbar: React.FC = () => {
             <div className="w-8 h-8 bg-emerald-600 rounded-lg flex items-center justify-center">
               <Building2 className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold tracking-tight text-zinc-900">Hospira</span>
+            <span className="text-xl font-bold tracking-tight text-zinc-900">Resortconnect</span>
           </Link>
 
           <div className="hidden md:flex items-center flex-1 max-w-md mx-8">

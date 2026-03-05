@@ -24,7 +24,7 @@ export const Sidebar: React.FC = () => {
   return (
     <div className="w-64 bg-zinc-900 text-white h-screen fixed left-0 top-0 flex flex-col border-r border-white/10">
       <div className="p-6 border-b border-white/10">
-        <h1 className="text-xl font-bold tracking-tight text-emerald-500">HOSPIRA</h1>
+        <h1 className="text-xl font-bold tracking-tight text-emerald-500">RESORTCONNECT</h1>
         <p className="text-xs text-zinc-400 mt-1 uppercase tracking-widest font-mono">
           {currentUser?.role} Portal
         </p>

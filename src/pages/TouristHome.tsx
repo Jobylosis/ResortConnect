@@ -88,7 +88,7 @@ export const TouristHome: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
             <div className="col-span-2">
-              <h3 className="text-2xl font-bold text-emerald-500 mb-6">HOSPIRA</h3>
+              <h3 className="text-2xl font-bold text-emerald-500 mb-6">RESORTCONNECT</h3>
               <p className="text-zinc-400 max-w-sm mb-8">
                 The leading multi-tenant hospitality platform for property owners 
                 and travelers alike.
@@ -126,7 +126,7 @@ export const TouristHome: React.FC = () => {
             </div>
           </div>
           <div className="mt-16 pt-8 border-t border-white/5 text-center text-zinc-500 text-sm">
-            © 2024 Hospira Hospitality Systems. All rights reserved.
+            © 2024 Resortconnect Hospitality Systems. All rights reserved.
           </div>
         </div>
       </footer>
